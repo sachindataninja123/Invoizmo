@@ -44,7 +44,7 @@ npm install
 ### 3) Configure environment
 
 ```bash
-cp .env.example .env
+.env
 ```
 
 Default local port is `5001`.
@@ -60,6 +60,10 @@ npm run dev
 - `http://localhost:5001/`
 - `http://localhost:5001/health`
 - `http://localhost:5001/ready`
+- `http://localhost:5001/users`
+- `http://localhost:5001/contact`
+- `http://localhost:5001/business`
+- `http://localhost:5001/clients`
 
 ## Available Scripts (backend)
 
